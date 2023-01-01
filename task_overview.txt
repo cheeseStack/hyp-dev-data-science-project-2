@@ -1,0 +1,6 @@
+Total number of generated and tracked tasks: 17
+Total number of completed tasks: 7
+Total number of uncompleted (outstanding) tasks: 10
+Total number of uncompleted, overdue tasks: 4
+Percentage of uncompleted tasks: 59%
+Percentage of overdue, uncompleted tasks: 24%

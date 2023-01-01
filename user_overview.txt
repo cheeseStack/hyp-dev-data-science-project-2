@@ -1,0 +1,44 @@
+Number of registered users: 6
+Number of tasks generated: 17
+
+Username: admin
+Number of tasks assigned: 3
+Assigned tasks as a percentage of all tasks : 17.65%
+Percentage of tasks completed: 33.33%
+Percentage of tasks uncompleted: 66.67%
+Percentage of tasks overdue: 0.0%
+
+Username: dave
+Number of tasks assigned: 5
+Assigned tasks as a percentage of all tasks : 29.41%
+Percentage of tasks completed: 40.0%
+Percentage of tasks uncompleted: 60.0%
+Percentage of tasks overdue: 40.0%
+
+Username: keith
+Number of tasks assigned: 3
+Assigned tasks as a percentage of all tasks : 17.65%
+Percentage of tasks completed: 66.67%
+Percentage of tasks uncompleted: 33.33%
+Percentage of tasks overdue: 33.33%
+
+Username: luigi
+Number of tasks assigned: 3
+Assigned tasks as a percentage of all tasks : 17.65%
+Percentage of tasks completed: 33.33%
+Percentage of tasks uncompleted: 66.67%
+Percentage of tasks overdue: 33.33%
+
+Username: mario
+Number of tasks assigned: 3
+Assigned tasks as a percentage of all tasks : 17.65%
+Percentage of tasks completed: 33.33%
+Percentage of tasks uncompleted: 66.67%
+Percentage of tasks overdue: 0.0%
+
+Username: no-task-person
+Number of tasks assigned: 0
+Assigned tasks as a percentage of all tasks : 0%
+Percentage of tasks completed: 0%
+Percentage of tasks uncompleted: 0%
+Percentage of tasks overdue: 0%
